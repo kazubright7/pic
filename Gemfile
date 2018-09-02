@@ -49,5 +49,7 @@ group :development do
   gem 'sprockets'
 
   gem 'compass-rails'
+
+  gem 'devise'
 end
 
